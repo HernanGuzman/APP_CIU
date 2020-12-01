@@ -11,7 +11,7 @@ Para el desarrollo de la APP Web se desarrolló una API que suministra los servi
 ### Base de datos
 Se desarrollo en MSSQL Server. Posee dos tablas:
 Tabla Marca: Campos (Id, NombreMarca, Deleted), en deleted se guarda la fecha en que se dio de baja ya que se hace una eliminación logica.
-Tabla Provincias: Campos (Id, Descripcion, Deleted)
+Tabla Provincias: Campos (Id, Descripcion, Deleted).
 
 ### API
 
