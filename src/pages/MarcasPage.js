@@ -1,17 +1,11 @@
-import Axios from 'axios';
 import React, {useState, useEffect} from 'react';
-import {Nav, Navbar, Container, Row, Col, Image, Table } from 'react-bootstrap';
 import ButtonAddMarca from '../components/ButtonAddMarca';
 import ChipMarca from '../components/ChipMarca';
-
-import Chip from '@material-ui/core/Chip';
 import Paper from '@material-ui/core/Paper';
-import Divider from '@material-ui/core/Divider';
 import Grid from '@material-ui/core/Grid';
-import Typography from '@material-ui/core/Typography';
 import '../styles/myStyle.css'
 import axios from 'axios';
-import Button from '@material-ui/core/Button';
+
 const newClient = () => {
     return axios.create({
         baseURL: 'https://www.APICIU.somee.com/api',
