@@ -8,7 +8,7 @@ function HomePage(){
   <Container>
   <Row>
     <Col xs={12} md={12} style={{textAlign:'center'}}>
-      <h2>Materia: Construcción de interfaces de usuario</h2>
+      <a href="https://unahur.github.io/ciu/" target="_blank"><h2>Materia: Construcción de interfaces de usuario</h2></a>
     </Col>
     
   </Row>

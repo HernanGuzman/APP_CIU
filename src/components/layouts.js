@@ -13,7 +13,7 @@ const Layouts = ({children}) => (
   
 </Nav>
 <div style={{textAlign:'right'}}>
-<Image src={imagenUNAHUR} style={{textAlign:'right', width:150, height:40, marginRight:10}} rounded  />
+<a href="http://www.unahur.edu.ar/" target="_blank"><Image src={imagenUNAHUR} style={{textAlign:'right', width:150, height:40, marginRight:10}} rounded  /></a>
 </div>
 
 </Navbar>
