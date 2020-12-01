@@ -1,15 +1,4 @@
- TP Integrador para la materia Construccion de interfaz de usuario.
-
-## Profesor: Javier Castrillo
-
-### Alumno: Hernán Guzmán
-
-
-## Descripción
-
-
-
-# TP Integrador para la materia Construcción de interfaz de usuario.
+ # TP Integrador para la materia Construcción de interfaz de usuario.
 
 ## Profesor: Javier Castrillo
 
